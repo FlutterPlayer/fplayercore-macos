@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "fplayercore",
-            url: "https://github.com/FlutterPlayer/ijkplayer/releases/download/1.2.11/fplayercore-macos.xcframework.zip",
-            checksum: "a5555bed07ffe38b699ea3223138dcd6f46154ecc5a54fca1da0ba17a5f6ccd0"
+            url: "https://github.com/FlutterPlayer/ijkplayer/releases/download/1.2.12/fplayercore-macos.xcframework.zip",
+            checksum: "6c1b85c1d98911e212357ece888ecb928128af174377b32a0ebc3b7a9aa9bea9"
         ),
     ]
 )
